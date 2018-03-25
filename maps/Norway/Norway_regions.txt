@@ -1,0 +1,19 @@
+Akershus
+Aust-Agder
+Buskerud
+Finnmark
+Hedmark
+Hordaland
+Møre og Romsdal
+Nord-Trondelag
+Nordland
+Oppland
+Oslo
+Rogaland
+Sogn og Fjordane
+Sør-Trondelag
+Telemark
+Troms
+Vest-Agder
+Vestfold
+Østfold
