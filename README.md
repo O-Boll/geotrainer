@@ -1,1 +1,1 @@
-# geotrainer
+# GeoTrainer
