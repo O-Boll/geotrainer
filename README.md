@@ -1,12 +1,12 @@
 # GeoTrainer
 
-<img align="right" width="480" height="270" src="https://raw.githubusercontent.com/O-Boll/geotrainer/master/media/screenshot_menu.png">
+<img align="right" width="400" height="225" src="https://raw.githubusercontent.com/O-Boll/geotrainer/master/media/screenshot_menu.png">
 
 GeoTrainer is the name of a geography game that I've been working on sporadically over the past couple of years. The game is almost finished, but since the [ninety-ninety rule](https://en.wikipedia.org/wiki/Ninety-ninety_rule) is applicable, there is no end in sight at this time. The guiding principle behind the project has been to take every (or every other) opportunity to reinvent the wheel. In particular, a do-it-yourself approach to GUI-development has helped in giving GeoTrainer something of a retro feel.
 
 ## Gameplay
 
-<img align="right" width="480" height="270" src="https://raw.githubusercontent.com/O-Boll/geotrainer/master/media/screenshot_sogn_og_fjordane.png">
+<img align="right" width="400" height="225" src="https://raw.githubusercontent.com/O-Boll/geotrainer/master/media/screenshot_sogn_og_fjordane.png">
 
 The game asks you to find a country/region or a city. You answer by clicking on the map. That's all there is to it. Three different game modes are available: Arcade, Educational and Time Trial. There are several different maps to choose from, and high scores are kept for each map for the Arcade and Time Trial game modes. Different color schemes and filters can be chosen to change the appearance of the game.
 
