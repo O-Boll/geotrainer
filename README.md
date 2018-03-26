@@ -18,4 +18,8 @@ GeoTrainer relies on [SDL2](https://www.libsdl.org/index.php) to manage video, a
 
 At the moment, documentation for the project is scarce at best. Hopefully, on a rainy day not too far into the future, I will choose a trusty documentation generator and get to work on fixing this unfortunate situation.
 
+## Author
+
+* Olle Eriksson
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
