@@ -22,4 +22,8 @@ At the moment, documentation for the project is scarce at best.
 
 * Olle Eriksson
 
+## License
+
+Sombrero is licensed under the MIT license. See [LICENSE](LICENSE) for the details.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
